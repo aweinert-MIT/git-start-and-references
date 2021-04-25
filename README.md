@@ -97,4 +97,4 @@ Depending on the license, you may or may not be given rights to the use of a nam
 
 ## Citation
 
-*Add DOI Badge onced Archived in Zenodo*
+[![DOI](https://zenodo.org/badge/361480927.svg)](https://zenodo.org/badge/latestdoi/361480927)
