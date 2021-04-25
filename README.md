@@ -29,6 +29,12 @@ Git and GitHub are two very different things. Git is a version control software 
 
 GitHub is not the only git-based or collaborative software service; alternatives include GitLab and BitBucket.
 
+## What is Git actually doing?
+
+It's not necessary to understand how git works to use git. But knowing how it works can help you to use git _better_.  [This YouTube video from Scott Chacon](https://www.youtube.com/watch?v=ZDR433b0HJY) walks you through how git works.  After watching, you will know what a commit really is and what `git commit` is doing. Same with branches, merges, etc. 
+
+Scott Chacon is the author of [Pro Git](https://git-scm.com/book/en/v2) and one of the founders of GitHub but the knowledge he shares in his video is not GitHub-specific and will help you use GitLab and BitBucket as well.
+
 ## Visual Studio Code and Extensions
 
 I often use [Visual Studio Code (VSCode)](https://code.visualstudio.com/) when editing READMEs, inspecting text files (CSV, TSV, etc.), querying SQLite databases, minor code edits, and more. VSCode a freeware source-code editor made by Microsoft for Windows, Linux and macOS. According to the [2019 StackOverflow Survey](https://insights.stackoverflow.com/survey/2019#development-environments-and-tools), VSCode was  was ranked the most popular developer environment tool, with 50.7% of 87,317 respondents reporting use.
