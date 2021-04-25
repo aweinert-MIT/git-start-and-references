@@ -1,4 +1,4 @@
-# git-getting-started
+# Getting Starting with Qit and Helpful References
 
 Andrew Weinert's opinion and a curated list of references to help get you started with git, GitHub, and open source development.
 
